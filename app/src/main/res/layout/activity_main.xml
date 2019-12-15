@@ -49,7 +49,14 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"/>
+        <Button
+            android:id="@+id/thridFragBtn"
+            android:text="3번 프래그먼트"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"/>
     </LinearLayout>
+
 
 
 </LinearLayout>
